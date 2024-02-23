@@ -1,0 +1,34 @@
+{
+    "name": "BaseActions",
+    "maps": [
+        {
+            "name": "BaseMap",
+            "id": "56d9d6b7-d22f-4bb9-b568-e7e0034bac5c",
+            "actions": [
+                {
+                    "name": "ChargeStart",
+                    "type": "Button",
+                    "id": "19996c6e-9fe5-4fb6-99cf-9fbd5af2763a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "96f2019d-90bc-4cac-afb5-3922fb60aec7",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChargeStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
